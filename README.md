@@ -1,6 +1,9 @@
 name: James Millar Mejino
+
 date: 2025 03 18
+
 email: localgeography@proton.me
+
 title: python workflow aggregator 
 
 Description:
